@@ -1,0 +1,7 @@
+#container{
+    display: flex;
+}
+
+#sideBar{
+    margin-left: 5px;
+}
